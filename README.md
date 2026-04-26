@@ -1,2 +1,2 @@
 # Blogging-
-This is a blog 
+This is a blogging website
